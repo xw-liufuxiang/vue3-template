@@ -1,0 +1,9 @@
+!/.*.js
+node_modules
+dist
+.history
+vite.config.ts
+# src/components
+# src/views
+# src/utils
+# src/assets
